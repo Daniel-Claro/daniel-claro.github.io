@@ -7,6 +7,10 @@
   align-items: center;
 }
 
+.nome {
+  text-shadow: 11px 14px 6px gray;
+}
+
 .header-menu {
   display: flex;
   flex-wrap: wrap;
